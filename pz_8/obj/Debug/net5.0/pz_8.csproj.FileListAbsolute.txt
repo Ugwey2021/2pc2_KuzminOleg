@@ -1,0 +1,16 @@
+C:\Users\Ugwey\source\repos\2pc2_KuzminOleg1\pz_8\bin\Debug\net5.0\pz_8.exe
+C:\Users\Ugwey\source\repos\2pc2_KuzminOleg1\pz_8\bin\Debug\net5.0\pz_8.deps.json
+C:\Users\Ugwey\source\repos\2pc2_KuzminOleg1\pz_8\bin\Debug\net5.0\pz_8.runtimeconfig.json
+C:\Users\Ugwey\source\repos\2pc2_KuzminOleg1\pz_8\bin\Debug\net5.0\pz_8.runtimeconfig.dev.json
+C:\Users\Ugwey\source\repos\2pc2_KuzminOleg1\pz_8\bin\Debug\net5.0\pz_8.dll
+C:\Users\Ugwey\source\repos\2pc2_KuzminOleg1\pz_8\bin\Debug\net5.0\ref\pz_8.dll
+C:\Users\Ugwey\source\repos\2pc2_KuzminOleg1\pz_8\bin\Debug\net5.0\pz_8.pdb
+C:\Users\Ugwey\source\repos\2pc2_KuzminOleg1\pz_8\obj\Debug\net5.0\pz_8.csproj.AssemblyReference.cache
+C:\Users\Ugwey\source\repos\2pc2_KuzminOleg1\pz_8\obj\Debug\net5.0\pz_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ugwey\source\repos\2pc2_KuzminOleg1\pz_8\obj\Debug\net5.0\pz_8.AssemblyInfoInputs.cache
+C:\Users\Ugwey\source\repos\2pc2_KuzminOleg1\pz_8\obj\Debug\net5.0\pz_8.AssemblyInfo.cs
+C:\Users\Ugwey\source\repos\2pc2_KuzminOleg1\pz_8\obj\Debug\net5.0\pz_8.csproj.CoreCompileInputs.cache
+C:\Users\Ugwey\source\repos\2pc2_KuzminOleg1\pz_8\obj\Debug\net5.0\pz_8.dll
+C:\Users\Ugwey\source\repos\2pc2_KuzminOleg1\pz_8\obj\Debug\net5.0\ref\pz_8.dll
+C:\Users\Ugwey\source\repos\2pc2_KuzminOleg1\pz_8\obj\Debug\net5.0\pz_8.pdb
+C:\Users\Ugwey\source\repos\2pc2_KuzminOleg1\pz_8\obj\Debug\net5.0\pz_8.genruntimeconfig.cache
