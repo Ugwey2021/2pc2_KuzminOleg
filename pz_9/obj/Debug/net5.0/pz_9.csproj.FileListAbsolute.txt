@@ -1,0 +1,15 @@
+C:\Users\Ugwey\source\repos\pz_9\pz_9\bin\Debug\net5.0\pz_9.exe
+C:\Users\Ugwey\source\repos\pz_9\pz_9\bin\Debug\net5.0\pz_9.deps.json
+C:\Users\Ugwey\source\repos\pz_9\pz_9\bin\Debug\net5.0\pz_9.runtimeconfig.json
+C:\Users\Ugwey\source\repos\pz_9\pz_9\bin\Debug\net5.0\pz_9.runtimeconfig.dev.json
+C:\Users\Ugwey\source\repos\pz_9\pz_9\bin\Debug\net5.0\pz_9.dll
+C:\Users\Ugwey\source\repos\pz_9\pz_9\bin\Debug\net5.0\ref\pz_9.dll
+C:\Users\Ugwey\source\repos\pz_9\pz_9\bin\Debug\net5.0\pz_9.pdb
+C:\Users\Ugwey\source\repos\pz_9\pz_9\obj\Debug\net5.0\pz_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ugwey\source\repos\pz_9\pz_9\obj\Debug\net5.0\pz_9.AssemblyInfoInputs.cache
+C:\Users\Ugwey\source\repos\pz_9\pz_9\obj\Debug\net5.0\pz_9.AssemblyInfo.cs
+C:\Users\Ugwey\source\repos\pz_9\pz_9\obj\Debug\net5.0\pz_9.csproj.CoreCompileInputs.cache
+C:\Users\Ugwey\source\repos\pz_9\pz_9\obj\Debug\net5.0\pz_9.dll
+C:\Users\Ugwey\source\repos\pz_9\pz_9\obj\Debug\net5.0\ref\pz_9.dll
+C:\Users\Ugwey\source\repos\pz_9\pz_9\obj\Debug\net5.0\pz_9.pdb
+C:\Users\Ugwey\source\repos\pz_9\pz_9\obj\Debug\net5.0\pz_9.genruntimeconfig.cache
