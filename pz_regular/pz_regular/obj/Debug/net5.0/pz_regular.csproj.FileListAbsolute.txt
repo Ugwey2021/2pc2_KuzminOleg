@@ -1,0 +1,16 @@
+C:\Users\Ugwey\source\repos\pz_regular\pz_regular\bin\Debug\net5.0\pz_regular.exe
+C:\Users\Ugwey\source\repos\pz_regular\pz_regular\bin\Debug\net5.0\pz_regular.deps.json
+C:\Users\Ugwey\source\repos\pz_regular\pz_regular\bin\Debug\net5.0\pz_regular.runtimeconfig.json
+C:\Users\Ugwey\source\repos\pz_regular\pz_regular\bin\Debug\net5.0\pz_regular.runtimeconfig.dev.json
+C:\Users\Ugwey\source\repos\pz_regular\pz_regular\bin\Debug\net5.0\pz_regular.dll
+C:\Users\Ugwey\source\repos\pz_regular\pz_regular\bin\Debug\net5.0\ref\pz_regular.dll
+C:\Users\Ugwey\source\repos\pz_regular\pz_regular\bin\Debug\net5.0\pz_regular.pdb
+C:\Users\Ugwey\source\repos\pz_regular\pz_regular\obj\Debug\net5.0\pz_regular.csproj.AssemblyReference.cache
+C:\Users\Ugwey\source\repos\pz_regular\pz_regular\obj\Debug\net5.0\pz_regular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ugwey\source\repos\pz_regular\pz_regular\obj\Debug\net5.0\pz_regular.AssemblyInfoInputs.cache
+C:\Users\Ugwey\source\repos\pz_regular\pz_regular\obj\Debug\net5.0\pz_regular.AssemblyInfo.cs
+C:\Users\Ugwey\source\repos\pz_regular\pz_regular\obj\Debug\net5.0\pz_regular.csproj.CoreCompileInputs.cache
+C:\Users\Ugwey\source\repos\pz_regular\pz_regular\obj\Debug\net5.0\pz_regular.dll
+C:\Users\Ugwey\source\repos\pz_regular\pz_regular\obj\Debug\net5.0\ref\pz_regular.dll
+C:\Users\Ugwey\source\repos\pz_regular\pz_regular\obj\Debug\net5.0\pz_regular.pdb
+C:\Users\Ugwey\source\repos\pz_regular\pz_regular\obj\Debug\net5.0\pz_regular.genruntimeconfig.cache
